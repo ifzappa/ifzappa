@@ -26,6 +26,7 @@ Additionally, I am actively engaged in a diverse range of training courses and p
 </br>
 #### ☁️ Cloud
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)]()
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
 </br>
 #### 🖥️ Front-end
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
